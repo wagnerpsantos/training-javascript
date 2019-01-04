@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Curso Javascript Completo 2018</title>
+		<meta charset="utf-8">
+
+		<script>
+			// Função literal
+			function somar(n1 ,n2) {
+				return n1 + n2;
+			}
+
+			var soma = somar(10, 20);
+			console.log('Resultado: ', soma);
+
+			somar.teste = 'Testando propriedade';
+
+			console.log(somar.teste);
+
+			// Função Anonima
+			var teste = function(str) {
+				console.log('Funcao anonima!!', str);
+			}
+
+			teste('Testando funcoes anonimas');
+
+			var funcaoParam = function fncName(fnc) {
+				fnc();
+			};
+
+			funcaoParam(function() {
+				console.log('Funcao passada por parametro.');
+			})
+
+			console.log('-------------------------------');
+
+			// Variaveis Globais
+			x = 0;
+			y = 0;
+
+			function mostraX() {
+				var x = 10; // escopo local(Com var)
+				var y = 20; // escopo local(Com var)
+				console.log('mostra LOCAL x: ', x);
+				console.log('mostra LOCAL y: ', y);
+			}
+			mostraX();
+
+			console.log('mostra GLOBAL x: ', x);
+			console.log('mostra GLOBAL y: ', y);
+
+			// Função autoinvocavel (IFEE)
+			(function(){
+				'use strict';
+
+				function somar(arr) {
+					console.log('TESTE: ', arguments);
+					var result = 0;
+					var x = 0;
+
+					while(arguments[x]) {
+						result += arguments[x];
+						x++;
+					}
+
+					console.log(result)
+				}
+
+				somar(20, 20, 20, 20, 80);
+			})()
+		</script>
+	</head>
+
+	<body>
+		<h1>Curso Javascript Completo 2018</h1>
+	</body>
+</html>

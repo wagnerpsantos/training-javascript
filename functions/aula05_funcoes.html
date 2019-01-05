@@ -5,7 +5,9 @@
 		<meta charset="utf-8">
 
 		<script>
-			// Função literal
+			/*Inicio Funcoes Literais*/
+
+			// Funcoes literais nao precisam de ";"
 			function somar(n1 ,n2) {
 				return n1 + n2;
 			}
@@ -17,6 +19,10 @@
 
 			console.log(somar.teste);
 
+            /*Fim Funcoes Literais*/
+
+            /*Inicio Funcoes Anonimas*/
+
 			// Função Anonima(Nao tem nome)
 			var teste = function(str) {
 				console.log('Funcao anonima!!', str);
@@ -24,6 +30,11 @@
 
 			teste('Testando funcoes anonimas');
 
+            /*Fim Funcoes Anonimas*/
+
+            /*Inicio Funcoes Parametrizadas*/
+
+			//Funcao pode receber outra funcao como parametro.
 			var funcaoParam = function fncName(fnc) {
 				fnc();
 			};
@@ -33,14 +44,22 @@
 			})
 
 			console.log('-------------------------------');
+            /*Fim Funcoes Parametrizadas*/
+
+
+			/*Inicio escopo Global/Local*/
 
 			// Variaveis Globais
+			// Quando nao contem a palavra var, é de escopo global
+			// Echma5 o escopo é de bloco e feita por funcoes
+			// Echma6 o escopo pode ser feito através da palavra Let
+			// VAriaveis criadas sem valor são UNDEFINED
 			x = 0;
 			y = 0;
 
 			function mostraX() {
-				var x = 10; // escopo local(Com var)
-				var y = 20; // escopo local(Com var)
+				var x = 10; // eescopo local(Com var)
+				var y = 20; // eescopo local(Com var)
 				console.log('mostra LOCAL x: ', x);
 				console.log('mostra LOCAL y: ', y);
 			}
@@ -49,14 +68,23 @@
 			console.log('mostra GLOBAL x: ', x);
 			console.log('mostra GLOBAL y: ', y);
 
-			// Função autoinvocavel (IFEE)
-			(function(){
-				'use strict';
+            /*Fim escopo Global/Local*/
 
-				function somar(arr) {
-					console.log('TESTE: ', arguments);
-					var result = 0;
-					var x = 0;
+            /*Inicio Funcoes Autoinvocaveis (IFEE)*/
+
+			// A boa pratica manda que todas as variaveis fiquem dentro de um escopo Local, evitando
+			// conflito entre variaveis de mesmo nome em arquivos diferentes e etc..
+			// As IFEE é garantido que o conteudo estara encapsulado
+			// Evita que variaveis sujem o escopo GLOBAL
+			// 'use strict' e uma Boa pratica colocar dentro de funcoes, principalmente IFEE
+			(function(){
+				'use strict';//Dentre outras coisas, ele evita que uma variavel possa criada sem VAR,
+			    			 // onde o navegador passa a virar a chave e mudar a sua interpretacao.
+
+				function somar() {
+					console.log('TESTE: ', arguments);// Arguments é como se fosse um array
+					var result = 0;                   // e possivel capturar parametros
+					var x = 0;                        // utilizado dentro da funcao, ele representa todos os parametros passados.
 
 					while(arguments[x]) {
 						result += arguments[x];
@@ -66,8 +94,9 @@
 					console.log(result)
 				}
 
-				somar(20, 20, 20, 20, 80);
+				somar(20, 20, 20, 1);
 			})()
+            /*Fim Funcoes Autoinvocaveis (IFEE)*/
 		</script>
 	</head>
 

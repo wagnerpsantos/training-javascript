@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50892ec1-7443-4e6f-9bfc-23141744ef7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aula06_media/aula06_DOM_desafio.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06_media/aula06_DOM_desafio.html" beforeDir="false" afterPath="$PROJECT_DIR$/aula06_media/aula06_DOM_desafio.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/aula06_media/aula06_DOM_desafio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="67" selection-start-line="67" selection-end-line="67" />
+            <state relative-caret-position="353">
+              <caret line="93" column="44" lean-forward="true" selection-start-line="93" selection-start-column="44" selection-end-line="93" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -25,8 +25,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/aula06_media/aula06-DOM-ex5-final-2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="563">
-              <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+            <state relative-caret-position="263">
+              <caret line="94" column="77" lean-forward="true" selection-start-line="94" selection-start-column="77" selection-end-line="94" selection-end-column="77" />
             </state>
           </provider>
         </entry>
@@ -36,6 +36,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>scopo</find>
+      <find>container</find>
     </findStrings>
     <replaceStrings>
       <replace>escopo</replace>
@@ -66,6 +67,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -78,17 +80,22 @@
               <item name="training-javascript" type="462c0819:PsiDirectoryNode" />
               <item name="aula06_media" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="training-javascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="training-javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="aula06_media" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546781723782" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546856147487" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -133,18 +140,20 @@
       <workItem from="1546601669255" duration="759000" />
       <workItem from="1546612575376" duration="592000" />
       <workItem from="1546613643655" duration="955000" />
-      <workItem from="1546710051898" duration="11295000" />
+      <workItem from="1546710051898" duration="12160000" />
+      <workItem from="1546857074291" duration="2909000" />
+      <workItem from="1546901430185" duration="1170000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13601000" />
+    <option name="totallyTimeSpent" value="18545000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1368" height="780" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25757575" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -161,7 +170,7 @@
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32868218" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32713178" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32612056" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -174,6 +183,37 @@
       <window_info anchor="right" id="SciView" order="8" />
       <window_info anchor="right" id="Database" order="9" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25757575" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32868218" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32612056" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="SciView" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -203,11 +243,23 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/aula05_funcoes.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/aula05_funcoes.html" />
     <entry file="file://$PROJECT_DIR$/functions/aula05-funcoes-exercicio-final.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -237,23 +289,12 @@
     <entry file="file://$PROJECT_DIR$/dom/aula06-DOM-ex4-final.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/dom/aula06-DOM-ex5-final.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="104" column="37" selection-start-line="104" selection-start-column="37" selection-end-line="104" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/dom/aula06-DOM-ex5-final.html" />
     <entry file="file://$PROJECT_DIR$/aula06_media/beluga.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="9" selection-start-column="9" selection-end-column="9" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aula06_media/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3330" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/aula06_media/css/bootstrap-theme.css">
@@ -273,15 +314,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/aula06_media/aula06-DOM-ex5-final-2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+        <state relative-caret-position="263">
+          <caret line="94" column="77" lean-forward="true" selection-start-line="94" selection-start-column="77" selection-end-line="94" selection-end-column="77" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/aula06_media/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/aula06_media/aula06_DOM_desafio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        <state relative-caret-position="353">
+          <caret line="93" column="44" lean-forward="true" selection-start-line="93" selection-start-column="44" selection-end-line="93" selection-end-column="44" />
         </state>
       </provider>
     </entry>

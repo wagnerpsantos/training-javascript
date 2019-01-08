@@ -29,7 +29,7 @@
 
         var objetoFormal = new Object(); // Criacao de Objeto do modo FORMAL
         var objetoLiteral = {'titulo':'estudadno java script', 'descricao':'aula07'}; // Criacao de Objeto do modo LITERAL
-        var objetoDeHospedagem = window.alert('TESTE'); // Objetos pertencentes ao Browser
+        //var objetoDeHospedagem = window.alert('TESTE'); // Objetos pertencentes ao Browser
 
         /*fim Tipos de Objetos*/
 
@@ -39,6 +39,24 @@
         var hojeTESTE = Date(); // String com valor da data
 
         /*fim Contrutores*/
+
+        /*inicio Objetos Literais customizados*/
+
+        function mudaCor(cor) {
+          this.cor = cor; // This e dinamico, ele muda o valor de acordo com o escopo de onde é chamado
+        }
+
+        var caneta1 = {
+          cor: 'vermelho',
+          mudarCor: mudaCor
+        }
+
+        var caneta2 = {
+          cor: 'vermelho',
+          mudarCor: mudaCor
+        }
+
+        /*fim Objetos Literais customizados*/
 
     </script>
 </body>

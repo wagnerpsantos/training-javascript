@@ -11,3 +11,9 @@ E
 functions/aula02.html,8/b/8bc7fe17f67afb41992f216895037f299d409a43
 K
 functions/aula03-final.html,7/8/78ce9ff391683909dd67babf0f79833b6d35164f
+T
+$aula06_media/aula06_DOM_desafio.html,2/a/2a81177fcd701feca94dc3ebe1d7d13557e5fc85
+]
+-objetos/aula07-objetos-ex2-desafio-final.html,3/1/318e2187caed1eb26659c42fc43e4b7fc8bf6655
+R
+"aula08_eventos/aula08_eventos.html,a/6/a65f84e486f8231b7cc6d3abc3efd9286a3541b5

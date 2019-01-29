@@ -24,6 +24,14 @@
         texto dentro da div
         <span style="background: yellow">texto dentro da span</span>
     </div>
+    <div class="container">
+        <h1>Delegação de eventos</h1>
+        <ul>
+            <li>Lista 1</li>
+            <li>Lista 2</li>
+            <li>Lista 3</li>
+        </ul>
+    </div>
 </div>
 <script>
     var btn2 = document.getElementById('btn2');
@@ -53,13 +61,41 @@
     var $d1 = document.querySelector("#d1");
     var $d1Span = document.querySelector("#d1 span");
 
-    $d1.addEventListener("click", function() { // A Propagacao no html ococrre de dentro para fora por padrao, ou seja é disparado o $d1Span primeiro e logo depois o $d1
+    $d1.addEventListener("click", function(event) { // A Propagacao no html ococrre de dentro para fora por padrao, ou seja é disparado o $d1Span primeiro e logo depois o $d1
       console.log('click no $d1');             // Se quiser inverter a ordem basta add o param boolean para true, pois o mesmo vem false por padrao.
-    });
+      event.stopPropagation();
+    }, false);
 
     $d1Span.addEventListener("click", function() {
       console.log('click no $d1Span');
     });
+
+    document.addEventListener('click', function (event) {
+        console.log('Clicou em document');
+        console.log('Quem esta associado o evento: ', event.currentTarget);
+        console.log(this);
+        console.log('Quem disparou o evento: ', event.target);
+    }, false);
+
+    var $ul = document.querySelector('ul');
+    var $lis = document.querySelectorAll('li');
+
+    // var x = 0;
+    // while ($lis[x]) {
+    //   $lis[x].addEventListener('click', function (event) {
+    //     event.stopPropagation();
+    //     console.log('clicou na li');
+    //   });
+    //   x++;
+    // }
+
+    $ul.addEventlistener('click', function (event) {
+      event.stopPropagation();
+      console.log(this);
+      console.log(event.currentTarget);
+      console.log(even.target);
+      console.log(event.target.nodeName);
+    })
 
 </script>
 

@@ -17,3 +17,7 @@ $aula06_media/aula06_DOM_desafio.html,2/a/2a81177fcd701feca94dc3ebe1d7d13557e5f
 -objetos/aula07-objetos-ex2-desafio-final.html,3/1/318e2187caed1eb26659c42fc43e4b7fc8bf6655
 R
 "aula08_eventos/aula08_eventos.html,a/6/a65f84e486f8231b7cc6d3abc3efd9286a3541b5
+X
+(aula08_eventos/aula08-eventos-final.html,d/0/d09d049537b21504d32460d5e363eed434ece43f
+V
+&aula08_eventos/aula08_eventos_ex1.html,a/f/af8cfa8c614c64c81ba48ad8b57b0c96c6fba82b

@@ -21,3 +21,15 @@ X
 (aula08_eventos/aula08-eventos-final.html,d/0/d09d049537b21504d32460d5e363eed434ece43f
 V
 &aula08_eventos/aula08_eventos_ex1.html,a/f/af8cfa8c614c64c81ba48ad8b57b0c96c6fba82b
+\
+,aula08_eventos/aula08-eventos-ex1-final.html,7/e/7e7b9565705aa9131f903fcea7dd5c106da74526
+V
+&aula08_eventos/aula08-eventos-ex2.html,4/c/4cac447a744d7cbc3364c185ae52151cc84aa530
+V
+&aula08_eventos/aula08-eventos-ex3.html,4/0/400860ef09cb7492a660c1e290c7283920f1c7db
+\
+,aula08_eventos/aula08-eventos-ex3-final.html,a/5/a5d382da257c84405b97a5d862f1447a5e74f9ff
+W
+'aula08_eventos/aula08-eventos-ex4l.html,8/7/87bc9529123ecc781927fe91de0ceefc4d50805f
+W
+'aula08_eventos/aula08-eventos-ex5l.html,7/8/78b06defab6fccf1df89bc762fc9f781e9688cf5

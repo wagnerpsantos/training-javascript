@@ -33,3 +33,11 @@ W
 'aula08_eventos/aula08-eventos-ex4l.html,8/7/87bc9529123ecc781927fe91de0ceefc4d50805f
 W
 'aula08_eventos/aula08-eventos-ex5l.html,7/8/78b06defab6fccf1df89bc762fc9f781e9688cf5
+V
+&aula08_eventos/aula08-eventos-ex6.html,3/8/38278025b70316200411397e85db80d066eb49c8
+X
+(aula08_eventos/aula08-eventos-ex6_2.html,5/9/591f0610230ce442f259449c2c81f8ad277bcfdc
+X
+(aula08_eventos/aula08-eventos-ex6_3.html,2/1/210a138678799f03fae3c287bce301d0fe8c1d04
+X
+(aula08_eventos/aula08-eventos-ex6_4.html,f/9/f944aa536062dbdabaed3c04137302b4e855d310

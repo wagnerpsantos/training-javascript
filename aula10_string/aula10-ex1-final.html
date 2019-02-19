@@ -13,17 +13,16 @@
             $paragrafos = document.querySelectorAll('p');
 
             for(var x = 0; x < $paragrafos.length; x++) {
-              $paragrafos[x].innerHTML = formatarTexto($paragrafos[x].innerHTML);
+              $paragrafos[x].innerHTML = formatarTexto($paragrafos[x]);
             }
 
             function formatarTexto(texto) {
-              var maxCaracteres = 200;
+              var maxCaracteres = 50;
 
-              if (texto.length <= maxCaracteres) {
-                return texto;
+
+              if(paragrafo.innerHTML.length > maxCaracteres) {
+                paragrafo.innerHTML = paragrafo.innerHTML.slice(0, maxCaracteres) + '...';
               }
-
-              return texto.slice(0, maxCaracteres) + '...';
             }
           };
     })();

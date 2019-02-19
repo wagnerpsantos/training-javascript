@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Curso Javascript Completo 2018</title>
+        <meta charset="utf-8">
+
+        <script>
+            var nome = "Wagner Pereira Dos Santos";
+
+            var nomeFormatado = formatarNome(nome);
+
+            function formatarNome(nome) {
+              var posicalUltimoEspaco = nome.lastIndexOf(' ');
+              if (posicalUltimoEspaco <= 0) {
+                return nome;
+              }
+
+              var ultimoNome = nome.slice(posicalUltimoEspaco + 1);
+              var primeiroNome = nome.slice(0, posicalUltimoEspaco);
+
+              return ultimoNome + ', ' + primeiroNome;
+            }
+
+            console.log(nomeFormatado);
+        </script>
+    </head>
+    <body>
+        <h1>Curso Javascript Completo 2018</h1>
+    </body>
+</html>

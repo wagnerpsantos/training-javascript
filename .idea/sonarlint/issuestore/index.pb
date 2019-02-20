@@ -57,3 +57,11 @@ E
 aula09_ex1/index.html,8/7/87ca3f335c072e2e6b72020bc603a0ff48dd5e41
 M
 aula09_ex1/javascript/menu.js,0/6/06e5a44e475dea0e8d58eae5d7012eee7a27b31b
+R
+"aula12_desafio/aula12_desafio.html,2/b/2b90fac0f14f92b36825602a9fc33445e2fd1a4d
+F
+aula06_media/beluga.js,8/1/81c852a1aca922a92112759950bc106b6b4d6c5f
+Q
+!aula11_number/aula11_desafio.html,3/2/323ebc2990b03413dfad4459ad1f2544e1b5bfa7
+H
+aula12_desafio/beluga.js,5/a/5afd84df44a24784bfe03dfad5a468fae25701d3

@@ -65,3 +65,9 @@ Q
 !aula11_number/aula11_desafio.html,3/2/323ebc2990b03413dfad4459ad1f2544e1b5bfa7
 H
 aula12_desafio/beluga.js,5/a/5afd84df44a24784bfe03dfad5a468fae25701d3
+N
+aula13_array/aula13_array.html,1/4/14cda6a3f24066d3aff6c804f962df474686d2ec
+V
+&aula13_array/aula13-desafio-final.html,a/8/a8aca60e16dee1806babca34eb34df5ce1260ba5
+T
+$aula13_array/aula13-array-final.html,3/0/30bffd462ff87f6234a52b09d226c8357b0080fd

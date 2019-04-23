@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50892ec1-7443-4e6f-9bfc-23141744ef7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aula14_date/aula14_desafio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula14_date/aula14_ex1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/training-javascript.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/training-javascript.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula14_date/aula14_desafio.html" beforeDir="false" afterPath="$PROJECT_DIR$/aula14_date/aula14_desafio.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,10 +16,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/aula14_date/aula14_desafio.html">
+        <entry file="file://$PROJECT_DIR$/aula15_temporizadores/aula15-temporizadores-desafio2-final.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+            <state relative-caret-position="227">
+              <caret line="73" column="25" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -84,8 +84,23 @@
         <option value="$PROJECT_DIR$/aula13_array/aula14_ex1.html" />
         <option value="$PROJECT_DIR$/aula14_date/aula14_ex1.html" />
         <option value="$PROJECT_DIR$/aula14_date/aula14_desafio.html" />
+        <option value="$PROJECT_DIR$/aula15_temporizadores/aula15_ex1.html" />
+        <option value="$PROJECT_DIR$/aula15_temporizadores/aula15-temporizadores-final.html" />
+        <option value="$PROJECT_DIR$/aula15_temporizadores/aula15-temporizadores-ex1-original.html" />
+        <option value="$PROJECT_DIR$/aula15_temporizadores/aula15-temporizadores-desafio2-original.html" />
       </list>
     </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="-4" />
@@ -98,6 +113,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,37 +124,38 @@
             <path>
               <item name="training-javascript" type="b2602c69:ProjectViewProjectNode" />
               <item name="training-javascript" type="462c0819:PsiDirectoryNode" />
-              <item name="aula14_date" type="462c0819:PsiDirectoryNode" />
+              <item name="aula15_temporizadores" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550542501124" />
-    <property name="last_opened_file_path" value="$USER_HOME$/projetos/vivo/new-plataform/backend/src-microservicos-b2b-invoice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.JavaScript" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/aula15_temporizadores" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/aula14_date" />
+      <recent name="$PROJECT_DIR$/aula13_array" />
+      <recent name="$PROJECT_DIR$/aula08_eventos" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/aula14_date" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/aula13_array" />
       <recent name="$PROJECT_DIR$/" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/aula14_date" />
-      <recent name="$PROJECT_DIR$/aula13_array" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/aula08_eventos" />
-      <recent name="$PROJECT_DIR$/objetos" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -211,18 +228,25 @@
       <workItem from="1551096448782" duration="61000" />
       <workItem from="1551142855804" duration="3555000" />
       <workItem from="1551181918385" duration="609000" />
-      <workItem from="1551226729621" duration="3715000" />
+      <workItem from="1551226729621" duration="5550000" />
+      <workItem from="1551267774153" duration="7000" />
+      <workItem from="1553648090946" duration="2097000" />
+      <workItem from="1553687643175" duration="102000" />
+      <workItem from="1555378712864" duration="1395000" />
+      <workItem from="1555412728977" duration="612000" />
+      <workItem from="1555500830172" duration="23000" />
+      <workItem from="1555980335700" duration="1872000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99214000" />
+    <option name="totallyTimeSpent" value="107157000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26666668" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28484848" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -254,7 +278,7 @@
       <window_info anchor="right" id="Database" order="9" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26666668" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27575758" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -271,7 +295,7 @@
       <window_info anchor="bottom" id="Docker" order="7" weight="0.2534776" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32676518" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.40775195" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.40775195" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -330,56 +354,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/objetos/aula07_objetos_construtores.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functions/aula03-final.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functions/aula02-final.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/objetos/aula07_objetos.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/objetos/aula07_objetos_ex1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aula08_eventos/css/bootstrap.css" />
-    <entry file="file://$PROJECT_DIR$/aula06_media/aula06_DOM_desafio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="77" column="16" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aula08_eventos/aula08_eventos.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="81" column="8" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/objetos/aula07-objetos-ex2-desafio-final.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -628,10 +602,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/aula15_temporizadores/aula14_ex1.html" />
+    <entry file="file://$PROJECT_DIR$/aula15_temporizadores/aula15_ex1.html" />
     <entry file="file://$PROJECT_DIR$/aula14_date/aula14_desafio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula15_temporizadores/aula15-temporizadores-final.html" />
+    <entry file="file://$PROJECT_DIR$/aula15_temporizadores/aula15-temporizadores-ex1-original.html" />
+    <entry file="file://$PROJECT_DIR$/aula15_temporizadores/aula15-temporizadores-desafio-final.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula15_temporizadores/aula15-temporizadores-desafio-original.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula15_temporizadores/aula15-temporizadores-desafio2-original.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula15_temporizadores/aula15-temporizadores-desafio2-final.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="73" column="25" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
         </state>
       </provider>
     </entry>

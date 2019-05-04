@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50892ec1-7443-4e6f-9bfc-23141744ef7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/training-javascript.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/training-javascript.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula14_date/aula14_desafio.html" beforeDir="false" afterPath="$PROJECT_DIR$/aula14_date/aula14_desafio.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,12 +11,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/aula15_temporizadores/aula15-temporizadores-desafio2-final.html">
+        <entry file="file://$PROJECT_DIR$/bom/aula16-Bom-desafio-original.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="73" column="25" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
+            <state relative-caret-position="497">
+              <caret line="73" column="33" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -88,6 +85,7 @@
         <option value="$PROJECT_DIR$/aula15_temporizadores/aula15-temporizadores-final.html" />
         <option value="$PROJECT_DIR$/aula15_temporizadores/aula15-temporizadores-ex1-original.html" />
         <option value="$PROJECT_DIR$/aula15_temporizadores/aula15-temporizadores-desafio2-original.html" />
+        <option value="$PROJECT_DIR$/bom/aula16-Bom-desafio-original.html" />
       </list>
     </option>
   </component>
@@ -112,8 +110,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,12 +120,14 @@
             <path>
               <item name="training-javascript" type="b2602c69:ProjectViewProjectNode" />
               <item name="training-javascript" type="462c0819:PsiDirectoryNode" />
-              <item name="aula15_temporizadores" type="462c0819:PsiDirectoryNode" />
+              <item name="bom" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -235,18 +233,20 @@
       <workItem from="1555378712864" duration="1395000" />
       <workItem from="1555412728977" duration="612000" />
       <workItem from="1555500830172" duration="23000" />
-      <workItem from="1555980335700" duration="1872000" />
+      <workItem from="1555980335700" duration="2136000" />
+      <workItem from="1556016691777" duration="238000" />
+      <workItem from="1556934458230" duration="1794000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107157000" />
+    <option name="totallyTimeSpent" value="109453000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
+    <frame x="-1" y="-11" width="1368" height="780" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28484848" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.29393938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -263,7 +263,7 @@
       <window_info anchor="bottom" id="Docker" order="7" weight="0.2534776" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32676518" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.40775195" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.37967116" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -278,7 +278,7 @@
       <window_info anchor="right" id="Database" order="9" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27575758" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29393938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -295,7 +295,7 @@
       <window_info anchor="bottom" id="Docker" order="7" weight="0.2534776" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32676518" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.40775195" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.37967116" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -354,13 +354,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/objetos/aula07-objetos-ex2-desafio-final.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="51" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aula08_eventos/aula08-eventos-final.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -619,17 +612,18 @@
     <entry file="file://$PROJECT_DIR$/aula15_temporizadores/aula15-temporizadores-desafio-original.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/aula15_temporizadores/aula15-temporizadores-desafio2-original.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/aula15_temporizadores/aula15-temporizadores-desafio2-original.html" />
     <entry file="file://$PROJECT_DIR$/aula15_temporizadores/aula15-temporizadores-desafio2-final.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
           <caret line="73" column="25" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bom/aula16-Bom-desafio-original.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="73" column="33" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Logica de Programação Javascript</title>
+        <meta charset="utf-8">
+
+        <style type="text/css">
+            .teste  {
+                background: red;
+            }
+        </style>
+
+    </head>
+    <body>
+        <h1>javascript completo</h1>
+        <div class="teste" style="background: green">apenas um teste</div>
+        <script>
+            (function () {
+                var $teste = document.querySelector('.teste');
+                console.log('bg: ', $teste.style.background);// "style" Só recupera ou altera propriedades definidas IN LINE
+
+                console.log('computado: ', getComputedStyle($teste).background);// Exibe as configuraçãoes computadas
+            })();
+        </script>
+
+    </body>
+</html>

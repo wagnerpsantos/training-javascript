@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50892ec1-7443-4e6f-9bfc-23141744ef7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/estilos/aula17_estilos_ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula06_media/beluga2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula18_carousel_original/aula18-revisao-carousel-3-final.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula18_carousel_original/aula18_revisao_carousel-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula19_callbacks/aula19-bindl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula19_callbacks/aula19-callbacks-final.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula19_callbacks/aula19-encadeamento.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula19_callbacks/aula19_encapsulamento.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula19_callbacks/aula19_invocar_funcao.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula19_callbacks/aula19_revealpattern_modulepattern.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saltos/aula18_saltos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula12_desafio/aula12_desafio.html" beforeDir="false" afterPath="$PROJECT_DIR$/aula12_desafio/aula12_desafio.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,43 +23,21 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bom/aula16-Bom-desafio-original.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="60" column="53" selection-start-line="60" selection-start-column="53" selection-end-line="60" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/estilos/aula17_estilos_ex1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="117" selection-start-line="21" selection-start-column="117" selection-end-line="21" selection-end-column="117" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/estilos/aula17-estilos-ex2-original.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-678">
-              <caret line="38" column="30" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/estilos/aula17-estilos-ex2-final.html">
+        <entry file="file://$PROJECT_DIR$/aula06_media/beluga2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -67,6 +57,9 @@
       <find>some</find>
       <find>apply</find>
       <find>map</find>
+      <find>butt</find>
+      <find>carousel__btn</find>
+      <find>addeven</find>
     </findStrings>
     <replaceStrings>
       <replace>escopo</replace>
@@ -78,9 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/functions/aula05_funcoes.html" />
-        <option value="$PROJECT_DIR$/aula06_media/aula06-DOM-ex5-final-2.html" />
-        <option value="$PROJECT_DIR$/aula06_media/aula06_DOM_desafio.html" />
         <option value="$PROJECT_DIR$/objetos/aula07_objetos.html" />
         <option value="$PROJECT_DIR$/objetos/aula07_objetos_construtores.html" />
         <option value="$PROJECT_DIR$/objetos/aula07_objetos_ex1.html" />
@@ -104,7 +94,6 @@
         <option value="$PROJECT_DIR$/aula10_string/aula10-ex1-final.html" />
         <option value="$PROJECT_DIR$/aula11_number/aula11-desafio.html" />
         <option value="$PROJECT_DIR$/aula11_number/aula11_desafio.html" />
-        <option value="$PROJECT_DIR$/aula12_desafio/aula12_desafio.html" />
         <option value="$PROJECT_DIR$/aula13_array/aula13_array.html" />
         <option value="$PROJECT_DIR$/aula13_array/aula13_ex1/aula13_ex1.html" />
         <option value="$PROJECT_DIR$/aula13_array/aula13-desafio-final.html" />
@@ -118,6 +107,21 @@
         <option value="$PROJECT_DIR$/aula15_temporizadores/aula15-temporizadores-desafio2-original.html" />
         <option value="$PROJECT_DIR$/bom/aula16-Bom-desafio-original.html" />
         <option value="$PROJECT_DIR$/estilos/aula17_estilos_ex1.html" />
+        <option value="$PROJECT_DIR$/saltos/aula18_saltos.html" />
+        <option value="$PROJECT_DIR$/aula18_carousel_original/carousel.css" />
+        <option value="$PROJECT_DIR$/aula18_carousel_original/aula18_revisao_carousel-1.html" />
+        <option value="$PROJECT_DIR$/aula18_carousel_original/aula18_revisao_carousel-2.html" />
+        <option value="$PROJECT_DIR$/aula18_carousel_original/aula18-revisao-carousel-3-final.html" />
+        <option value="$PROJECT_DIR$/aula12_desafio/aula12_desafio.html" />
+        <option value="$PROJECT_DIR$/aula19_callbacks/aula19_callbacks.js" />
+        <option value="$PROJECT_DIR$/aula19_callbacks/aula19_callbacks.html" />
+        <option value="$PROJECT_DIR$/aula19_callbacks/aula19_encapsulamento.html" />
+        <option value="$PROJECT_DIR$/aula19_callbacks/aula19_invocar_funcao.html" />
+        <option value="$PROJECT_DIR$/aula19_callbacks/aula19-bindl.html" />
+        <option value="$PROJECT_DIR$/aula19_callbacks/aula19-encadeamento.html" />
+        <option value="$PROJECT_DIR$/aula19_callbacks/aula19_revealpattern_modulepattern.html" />
+        <option value="$PROJECT_DIR$/aula19_callbacks/aula19_DOM.html" />
+        <option value="$PROJECT_DIR$/aula06_media/beluga2.js" />
       </list>
     </option>
   </component>
@@ -132,19 +136,14 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2" />
-    <option name="y" value="32" />
-    <option name="width" value="1364" />
-    <option name="height" value="736" />
-  </component>
+  <component name="ProjectId" id="1SFFQ210JPGpw8gay0bY0P2l1sl" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,7 +154,17 @@
             <path>
               <item name="training-javascript" type="b2602c69:ProjectViewProjectNode" />
               <item name="training-javascript" type="462c0819:PsiDirectoryNode" />
-              <item name="estilos" type="462c0819:PsiDirectoryNode" />
+              <item name="aula06_media" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="training-javascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="training-javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="aula10_string" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="training-javascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="training-javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="aula19_callbacks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -176,17 +185,18 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/aula19_callbacks" />
       <recent name="$PROJECT_DIR$/aula14_date" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/aula13_array" />
       <recent name="$PROJECT_DIR$/" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/estilos" />
-      <recent name="$PROJECT_DIR$/aula15_temporizadores" />
+      <recent name="$PROJECT_DIR$/aula06_media" />
+      <recent name="$PROJECT_DIR$/aula19_callbacks" />
+      <recent name="$PROJECT_DIR$/aula18_carousel_original" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/aula14_date" />
-      <recent name="$PROJECT_DIR$/aula13_array" />
+      <recent name="$PROJECT_DIR$/estilos" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -272,17 +282,26 @@
       <workItem from="1557227028842" duration="531000" />
       <workItem from="1557879979035" duration="1198000" />
       <workItem from="1557931994147" duration="2168000" />
+      <workItem from="1558055915198" duration="5682000" />
+      <workItem from="1559694022641" duration="1081000" />
+      <workItem from="1559695525979" duration="4004000" />
+      <workItem from="1560212547402" duration="2689000" />
+      <workItem from="1568041551111" duration="737000" />
+      <workItem from="1568214944151" duration="3069000" />
+      <workItem from="1568387879501" duration="2991000" />
+      <workItem from="1568992380478" duration="2097000" />
+      <workItem from="1568997003022" duration="35000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115201000" />
+    <option name="totallyTimeSpent" value="137586000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
+    <frame x="1440" y="-4" width="1366" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21611527" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2810606" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -299,7 +318,7 @@
       <window_info anchor="bottom" id="Docker" order="7" weight="0.2534776" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32676518" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3715221" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.37070253" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -314,7 +333,7 @@
       <window_info anchor="right" id="Database" order="9" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30728376" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26742426" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -331,7 +350,7 @@
       <window_info anchor="bottom" id="Docker" order="7" weight="0.2534776" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32676518" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3715221" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.37070253" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -390,96 +409,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/aula08_eventos/aula08-eventos-ex2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="36" column="98" selection-start-line="36" selection-start-column="98" selection-end-line="36" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aula08_eventos/aula08-eventos-ex3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aula08_eventos/aula08-eventos-ex3-final.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aula08_eventos/aula08-eventos-ex4l.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aula08_eventos/aula08-eventos-ex5l.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aula08_eventos/aula08-eventos-ex6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aula08_eventos/aula08-eventos-ex6_2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aula08_eventos/aula08-eventos-ex6_3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="177" selection-start-line="46" selection-start-column="177" selection-end-line="46" selection-end-column="177" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aula08_eventos/aula08-eventos-ex6_4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="65" column="19" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aula08_eventos/aula08-eventos-ex6_5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aula08_desafio/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="46" lean-forward="true" selection-start-column="46" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aula08_desafio/css/contato.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aula08_eventos/aula08-eventos-ex6_6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aula08_desafio/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aula08_desafio/javascript/menu.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -498,13 +427,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aula10_string/aula10_ex1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -532,13 +454,6 @@
     <entry file="file://$PROJECT_DIR$/aula12_desafio/images/1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/aula12_desafio/aula12_desafio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aula11_number/aula11_desafio.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -550,13 +465,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aula06_media/beluga.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -627,24 +535,17 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/aula15_temporizadores/aula15-temporizadores-desafio2-original.html" />
-    <entry file="file://$PROJECT_DIR$/aula15_temporizadores/aula15-temporizadores-desafio2-final.html">
+    <entry file="file://$PROJECT_DIR$/estilos/aula17-estilos-ex1-final.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="73" column="25" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
+        <state relative-caret-position="300">
+          <caret line="41" column="57" lean-forward="true" selection-start-line="41" selection-start-column="57" selection-end-line="41" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bom/aula16-Bom-desafio-original.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
+        <state relative-caret-position="339">
           <caret line="60" column="53" selection-start-line="60" selection-start-column="53" selection-end-line="60" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estilos/aula17-estilos-ex1-final.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="41" column="57" lean-forward="true" selection-start-line="41" selection-start-column="57" selection-end-line="41" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -660,15 +561,129 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/estilos/aula17-estilos-ex2-original.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-678">
-          <caret line="38" column="30" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+        <state relative-caret-position="15">
+          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/estilos/aula17-estilos-ex2-final.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saltos/aula18_saltos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula18_carousel_original/carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula15_temporizadores/aula15-temporizadores-desafio2-final.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula18_carousel_original/aula18_revisao_carousel-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula12_desafio/aula12_desafio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula18_carousel_original/aula18-revisao-carousel-3-final.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula10_string/aula10_ex1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula19_callbacks/aula19_callbacks.html" />
+    <entry file="file://$PROJECT_DIR$/aula18_carousel_original/aula18_revisao_carousel-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="45" column="43" selection-start-line="45" selection-start-column="43" selection-end-line="45" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula19_callbacks/aula19-callbacks-final.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="12" lean-forward="true" selection-end-line="36" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula19_callbacks/aula19_invocar_funcao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula19_callbacks/aula19_encapsulamento.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula19_callbacks/aula19-bindl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="110" selection-start-line="9" selection-start-column="110" selection-end-line="9" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula19_callbacks/aula19-encadeamento.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula19_callbacks/aula19_revealpattern_modulepattern.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula19_callbacks/aula19_DOM.html" />
+    <entry file="file://$PROJECT_DIR$/aula06_media/beluga.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula06_media/beluga2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
